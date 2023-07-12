@@ -34,13 +34,13 @@ export const moreProjects = [
   {
     link: "https://speach-text-reader-v.netlify.app/",
     img: speechText,
-    title: "Speech Text Reader",
+    title: "Text Reader",
     tags: ["HTML", "CSS", "JavaScript"],
   },
   {
     link: "https://breakout-game-v.netlify.app/",
     img: breackout,
-    title: "Breackout Game",
+    title: "Breackout",
     tags: ["HTML", "CSS", "JavaScript"],
   },
   {

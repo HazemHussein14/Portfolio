@@ -37,7 +37,7 @@ const MainProject = ({
         <p className="text-sm md:text-base bg-[#112240] p-2 md:p-6 rounded-md lgl:-mr-16">
           {description}
         </p>
-        <ul className="flex justify-between text-xs tracking-wide md:text-sm font-titleFont md:gap-4 text-textDark">
+        <ul className="flex justify-between gap-2 text-xs tracking-wide md:text-sm font-titleFont md:gap-5 text-textDark">
           {techStack.map((item, idx) => (
             <li key={idx}>{item}</li>
           ))}

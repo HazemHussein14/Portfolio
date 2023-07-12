@@ -16,7 +16,6 @@ export const mainProjects = [
       "A MERN stack job tracking app with CRUD operations, server-side validation, advanced filtering, charts, a demo user feature for easy access, and secure authentication using cookies.",
     techStack: [
       "React",
-      "Styled Components",
       "Node.js",
       "Express",
       "MongoDB",
@@ -36,7 +35,6 @@ export const mainProjects = [
       "Node.js",
       "Express",
       "MongoDB",
-      "Mongoose",
     ],
   },
   {

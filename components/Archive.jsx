@@ -20,7 +20,7 @@ const Archive = () => {
     >
       <div className="flex flex-col items-center w-full">
         <h3 className="text-3xl font-semibold font-titleFont">
-          More Projects To See
+          More Projects
         </h3>
         <p className="text-sm font-titleFont text-textGreen">
           view the archive
