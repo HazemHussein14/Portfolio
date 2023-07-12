@@ -18,6 +18,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "components/Archive.jsx", "components/ArchiveCard.jsx", "components/Projects.jsx", "components/Navbar.jsx", "components/Banner.jsx", "components/About.jsx", "components/works/Kalbonyan.jsx", "public/assets/images/index.js", "components/Experience.jsx", "components/RightSide.jsx", "components/SectionTitle.jsx", "components/LeftSide.jsx", "pages/index.js", "pages/_document.js", "pages/_app.jsx"],
   "exclude": ["node_modules"]
 }
