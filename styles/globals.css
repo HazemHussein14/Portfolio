@@ -27,5 +27,6 @@
 }
 
 .myElement {
+  width: 100px;
   animation: spinner 3s ease-in infinite;
 }

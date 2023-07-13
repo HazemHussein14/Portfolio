@@ -1,4 +1,4 @@
-import logo from "./logo.webp";
+import logo from "./mylogo.png";
 import appie from "./Appie.png";
 import kanbanBoard from "./KalbonyanBoard.png";
 import Notes from "./YourNotes.png";
