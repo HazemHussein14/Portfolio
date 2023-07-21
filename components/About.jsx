@@ -13,10 +13,10 @@ const About = () => {
       <div className="flex flex-col gap-16 lgl:flex-row">
         <div className="flex flex-col w-full gap-4 text-base font-medium lgl:w-2/3 text-textDark">
           <p>
-          Hello! I'm Hazem, and I'm deeply passionate about web-based projects. Since my early days, I was captivated by software and programming, especially web development. It all began with my love for video games, which sparked my curiosity about their creation. This journey led me to the world of programming, where I found the magical ability to bring ideas to life.
+          Hello! I’m Hazem, and I’m deeply passionate about web-based projects. Since my early days, I was captivated by software and programming, especially web development. It all began with my love for video games, which sparked my curiosity about their creation. This journey led me to the world of programming, where I found the magical ability to bring ideas to life.
           </p>
           <p>
-            Fast-forward to today, I'm currently learning web development using
+            Fast-forward to today, I’m currently learning web development using
             the <span className="text-textGreen">MERN stack</span>. As an intern
             at{" "}
             <a href="https://www.albonyanalmarsos.org/" target="_blank">
