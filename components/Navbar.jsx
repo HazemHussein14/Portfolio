@@ -122,7 +122,7 @@ const Navbar = () => {
               transition={{ delay: 0.5 }}
               className="px-4 py-2 rounded-md text-textGreen text-[13px] border border-textGreen hover:bg-hoverColor duration-300"
             >
-              Resume
+              CV
             </motion.button>
           </a>
         </div>
@@ -239,14 +239,14 @@ const Navbar = () => {
                     </motion.li>
                   </Link>
                 </ul>
-                <a href="/assets/cv.pdf" target="_blank">
+                <a href="/assets/Hazem-Hussein.pdf" target="_blank">
                   <motion.button
                     initial={{ opacity: 0 }}
                     animate={{ opacity: 1 }}
                     transition={{ delay: 0.5 }}
                     className="w-32 h-10 rounded-md text-textGreen text-[13px] border border-textGreen hover:bg-hoverColor duration-300"
                   >
-                    Resume
+                    CV
                   </motion.button>
                 </a>
                 <div className="flex gap-4">
@@ -300,9 +300,9 @@ const Navbar = () => {
                   animate={{ y: 0, opacity: 1 }}
                   transition={{ delay: 1.2, ease: "easeIn", ease: "easeIn" }}
                   className="mt-4 text-sm tracking-widest text-center w-72 text-textGreen"
-                  href="mailto:noor.jsdivs@gmail.com"
+                  href="mailto:hazimhussein159@gmail.com"
                 >
-                  <p>reactbd@proton.me</p>
+                  <p>hazem@gmail.com</p>
                 </motion.a>
               </div>
             </motion.div>

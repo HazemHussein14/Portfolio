@@ -37,13 +37,13 @@ export default function Home() {
         <link rel="icon" href="/logo.ico" />
       </Head>
       {isLoading ? (
-        <div className="grid w-full h-screen bg-bodyColor text-textLight place-items-center">
-          <div className="myElement">
+        <div className="grid w-full h-screen bg-bodyColor place-items-center">
+          <div className="spinner">
             <Image src={logo} alt="logo" />
           </div>
         </div>
       ) : (
-        <main className="w-full h-screen overflow-x-hidden overflow-y-scroll font-bodyFont bg-bodyColor text-textLight scrollbar scrollbar-track-textDark/20 scrollbar-thumb-textDark/60">
+        <main className="w-full h-screen overflow-x-hidden overflow-y-scroll font-bodyFont bg-bodyColor text-textLight">
           <Navbar />
           <div className="w-full h-[88vh] xl:flex items-center gap-20  justify-between">
             <motion.div

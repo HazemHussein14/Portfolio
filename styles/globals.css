@@ -6,9 +6,8 @@
   color: #64ffda;
 }
 
-.scrollbarHide {
-  overflow-x: hidden;
-  overflow-y: hidden;
+main::-webkit-scrollbar {
+  width: 0;
 }
 
 @keyframes spinner {
@@ -26,7 +25,7 @@
   }
 }
 
-.myElement {
+.spinner {
   width: 100px;
   animation: spinner 3s ease-in infinite;
 }
